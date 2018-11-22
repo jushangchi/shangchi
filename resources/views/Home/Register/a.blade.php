@@ -1,0 +1,1 @@
+<a href="http://www.rxgg.com/a?id={{$id}}">激活用户1</a>
